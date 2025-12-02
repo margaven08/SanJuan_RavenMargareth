@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Courier New', Courier, monospace;
+
+}
+body{
+     display: flex;
+     margin: 1px 10px;
+     background-color: grey;
+     justify-content: center;
+     align-items: center;
+
+     padding: 12px;
+}
+.design-container{
+    background-color: #2b3b69;
+    width: 220px;
+    height: 1051px;
+
+}
+.design-container .img img{
+    padding: 25px;
+    width: 163px;
+    height: 161px;
+}
+.resume-body{
+    padding: 20px;
+    margin: 12px 0;
+    background-color: white;
+    height: 1010px;
+    width: 620px;
+}
